@@ -53,3 +53,6 @@ Join our community of developers creating universal apps.
 npm expo start --clear
 
 rnfe - functional react native
+
+## installing app-write plugin
+npx expo install react-native-appwrite react-native-url-polyfill
